@@ -43,6 +43,10 @@ body{
     opacity: 0.8;
 }
 
+.button-add-task:active{
+    opacity: 0.6;
+}
+
 .list-tasks{
     width: 100%;
     list-style: none;
